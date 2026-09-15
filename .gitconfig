@@ -3,3 +3,5 @@
 	name = Milton Carlos Katoo
 [core]
 	editor = nvim
+[url "git@github.com:"]
+	insteadOf = https://github.com/
