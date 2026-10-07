@@ -144,6 +144,10 @@ if command -q batcat
   alias bat='batcat'
 end
 
+if command -q gdown
+  alias gdown='gdown -c --cookies-from-browser brave --speed 30MB -O .'
+end
+
 alias pn='pnpm'
 alias pnx='pnpx'
 alias nv='nvim'
