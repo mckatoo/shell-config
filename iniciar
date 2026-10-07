@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+Telegram -startintray &
+dropbox &
+zapzap &
+keepassxc &
+# QT_QPA_PLATFORM=xcb keepassxc -platform xcb &
